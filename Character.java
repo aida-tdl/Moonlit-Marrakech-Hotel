@@ -1,8 +1,6 @@
 import java.util.Random;
 
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
  * 
  * Classe Character - a character in an adventure game.
  * 
