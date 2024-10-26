@@ -2,9 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
- * 
  * Class Player - a player is the main character of the game.
  * 
  * This class is part of the "Moonlit Marrakech Hotel" application.
