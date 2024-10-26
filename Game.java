@@ -12,9 +12,6 @@ import java.io.IOException;
 
 
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
- * 
  * This class is the main class of the "Moonlit Marrakech Hotel" application. 
  * "Moonlit Marrakech Hotel" is a text based adventure game. Users 
  * can walk around some scenery, hold, drop and give items. 
