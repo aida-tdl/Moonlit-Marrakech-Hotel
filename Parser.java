@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
- * 
  * This class is part of the "Moonlit Marrakech Hotel" application.  
  * 
  * This parser reads user input and tries to interpret it as an "Adventure"
