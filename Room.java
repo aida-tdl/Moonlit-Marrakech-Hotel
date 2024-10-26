@@ -5,9 +5,6 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
- * 
  * Class Room - a room in an adventure game.
  *
  * This class is part of the "Moonlit Marrakech Hotel" application.   
