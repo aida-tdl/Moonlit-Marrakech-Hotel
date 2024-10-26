@@ -25,7 +25,7 @@ How to Play:
 	• Interact with mobile characters using give [item] [character].
 	• Reach the garden and assist characters to win the game!
  
- Future Improvements
+ Future Improvements:
 
 	• Add more complex character interactions.
 	• Expand the hotel with additional rooms and challenges.
