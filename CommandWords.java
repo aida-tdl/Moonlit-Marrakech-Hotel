@@ -1,7 +1,4 @@
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
- * 
  * This class is part of the "Moonlit Marrakech Hotel" application. 
  * 
  * This class holds an enumeration of all command words known to the game.
