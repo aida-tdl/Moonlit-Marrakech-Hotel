@@ -1,8 +1,5 @@
 
 /**
- * Name : Aïda Tadlaoui 
- * K number : 23090130
- * 
  * Class Item - an item in an adventure game.
  * 
  * This class is part of the "Moonlit Marrakech Hotel" application.
